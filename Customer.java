@@ -8,4 +8,8 @@ public class Customer {
     public boolean isEnabled() {
         return true;
     }
+    public boolean isDisabled() {
+        return false;
+    }
+
 }
